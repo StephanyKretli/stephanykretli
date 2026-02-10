@@ -53,15 +53,9 @@ Se você quiser se conectar, colaborar ou tiver alguma dúvida, fique à vontade
 <h2>🚀 &nbsp;Minhas estatísticas do GitHub</h2>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=StephanyKretli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-    alt="Estatísticas do GitHub de Stephany Kretli"
-  />
+  <img src="https://github-readme-stats-chi-plum-81.vercel.app/api?username=StephanyKretli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=StephanyKretli&layout=compact&theme=dracula"
-    alt="Linguagens mais usadas"
-  />
+  <img src="https://github-readme-stats-chi-plum-81.vercel.app/api/top-langs/?username=StephanyKretli&layout=compact&theme=dracula" />
 </p>
