@@ -1,57 +1,60 @@
-<h1>👋 &nbsp;Olá, eu sou Stephany Kretli, uma desenvolvedora full stack, apaixonada por tecnologia, design e por transformar ideias em soluções digitais!</h1>
+<h1 align="center">👋 Olá, sou Stephany Kretli</h1>
+<h3 align="center">Desenvolvedora Full Stack & Fundadora</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/stephanykretli"><img src="https://img.shields.io/badge/-Meu%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:stephanykretli@gmail.com"><img src="https://img.shields.io/badge/-Me%20Mande%20uma%20Mensagem-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
+  Construindo arquiteturas escaláveis, soluções SaaS e interfaces minimalistas.
 </p>
 
-<h2> 👩🏻‍💻 &nbsp;Sobre Mim </h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/stephanykretli"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:stephanykretli@gmail.com"><img src="https://img.shields.io/badge/-E--mail-000000?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
 
-Sou desenvolvedora full stack com foco em desenvolvimento web, UX/UI e criação de soluções digitais funcionais e bem estruturadas. Atuo principalmente no desenvolvimento de sites, landing pages e projetos web utilizando WordPress, HTML, CSS, JavaScript, além de práticas de design responsivo, SEO on-page e otimização da experiência do usuário. Tenho interesse constante em automação, integração de ferramentas e uso de tecnologia para melhorar processos e resultados digitais.
+---
 
-Minha jornada na tecnologia começou a partir da curiosidade em entender como os sites funcionam e como o design e o código se conectam para gerar impacto real. Ao longo da faculdade e de projetos pessoais, desenvolvi aplicações web, interfaces responsivas e soluções práticas, percebendo que criar experiências digitais vai muito além de escrever código — envolve estratégia, empatia com o usuário e visão de negócio.
+<h2> 👩🏻‍💻 Sobre Mim </h2>
 
-Desde então, sigo em aprendizado contínuo, sempre buscando evoluir tecnicamente, aprimorar meu olhar para produto, usabilidade e performance, e construir soluções cada vez mais completas. Sou movida pela vontade de criar, aprender e transformar ideias em projetos digitais bem executados, funcionais e com propósito.
+<p>
+Sou uma desenvolvedora full stack focada em arquitetar e construir produtos digitais de ponta a ponta. Minha especialidade é traduzir regras de negócio complexas — como sistemas de agendamento de alta concorrência e plataformas SaaS multi-tenant — em aplicações rápidas, seguras e com um design elegante e funcional.
+</p>
+<p>
+Tenho uma visão orientada a produto: entendo que código limpo e infraestrutura robusta são os meios para entregar uma experiência de usuário impecável e resultados reais de negócio. Lidero projetos desde a modelagem de bancos de dados relacionais e construção de APIs RESTful até o desenvolvimento de interfaces front-end responsivas e dinâmicas.
+</p>
 
-<h2> 📚 &nbsp;O que você encontrará aqui?</h2>
+<h2> 🛠 Tech Stack </h2>
 
-Este GitHub é mais do que apenas um repositório de código — é um reflexo da minha jornada, aprendizados e evolução no desenvolvimento web. Aqui compartilho projetos, estudos e experimentos que unem código, design e estratégia, sempre com foco em soluções funcionais, bem estruturadas e pensadas para a experiência do usuário.
+<p>Ferramentas e tecnologias que utilizo para construir aplicações em nível de produção:</p>
 
-Seja você um recrutador, desenvolvedor ou alguém em processo de aprendizado, aqui você encontrará projetos que representam minha forma de pensar, criar e resolver problemas no dia a dia, explorando front-end, back-end, UX/UI, WordPress e automação, sempre com curiosidade, cuidado e propósito.
-  
-Se você quiser se conectar, colaborar ou tiver alguma dúvida, fique à vontade para <a href="mailto:stephanykretli@gmail.com">clicar aqui e me enviar um e-mail </a>, ou entrar em contato pelo <a href="https://www.linkedin.com/in/stephanykretli/">LinkedIn</a>. Estou sempre aberta a boas conversas e oportunidades interessantes.
+<h3>💻 Front-end:</h3>
 
-<h2> 🛠 &nbsp;Tech Stack</h2>
-<h3>💻 &nbsp;Front-end:</h3>
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js%2016-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+<h3>⚙️ Back-end & Infraestrutura:</h3>
 
-<h3>⚙️ &nbsp;Back-end & databases:</h3>
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=339933)
+![NestJS](https://img.shields.io/badge/-NestJS-000000?style=flat-square&logo=nestjs&logoColor=E0234E)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Prisma](https://img.shields.io/badge/-Prisma-000000?style=flat-square&logo=prisma&logoColor=2D3748)
 
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+<h3>🧩 Outras Competências:</h3>
 
-<h3>🧩 &nbsp;CMS & Plugins:</h3>
+![Git](https://img.shields.io/badge/-Git%20&%20GitHub-000000?style=flat-square&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=FCC624)
+![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat-square&logo=wordpress&logoColor=21759B)
 
-![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
-![JetEngine](https://img.shields.io/badge/-JetEngine-333333?style=flat&logo=elementor)
+---
 
-<h3>✨ &nbsp;Animations:</h3>
+<h2> 🚀 O que você encontrará nos meus repositórios? </h2>
 
-![GSAP](https://img.shields.io/badge/-GSAP-333333?style=flat&logo=greensock&logoColor=88CE02)
+* **Sistemas Robustos:** Código focado em back-end escalável, controle de transações e APIs estruturadas.
+* **Atenção ao Front-end:** Aplicações modernas com foco na experiência do usuário (UX) e interfaces limpas (UI).
+* **Código Limpo:** Padrões de projeto, tipagem forte e boas práticas de engenharia de software.
 
-<h3>🛠️ &nbsp;Versionamento:</h3>
+<br>
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-<h2>🚀 &nbsp;Minhas estatísticas do GitHub</h2>
-
-  <img src="https://github-readme-stats-chi-plum-81.vercel.app/api?username=StephanyKretli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-
-  <img src="https://github-readme-stats-chi-plum-81.vercel.app/api/top-langs/?username=StephanyKretli&layout=compact&theme=dracula" />
+<div align="center">
+  <img src="https://github-readme-stats-chi-plum-81.vercel.app/api?username=StephanyKretli&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats-chi-plum-81.vercel.app/api/top-langs/?username=StephanyKretli&layout=compact&theme=transparent&hide_border=true" />
+</div>
