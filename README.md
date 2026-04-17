@@ -14,7 +14,7 @@
 <h2> 👩🏻‍💻 Sobre Mim </h2>
 
 <p>
-Sou uma desenvolvedora full stack focada em arquitetar e construir produtos digitais de ponta a ponta. Minha especialidade é traduzir regras de negócio complexas — como sistemas de agendamento de alta concorrência e plataformas SaaS multi-tenant — em aplicações rápidas, seguras e com um design elegante e funcional.
+Sou uma desenvolvedora full stack focada em arquitetar e construir produtos digitais de ponta a ponta. Minha especialidade é traduzir regras de negócio complexas, como sistemas de agendamento de alta concorrência e plataformas SaaS multi-tenant, em aplicações rápidas, seguras e com um design elegante e funcional.
 </p>
 <p>
 Tenho uma visão orientada a produto: entendo que código limpo e infraestrutura robusta são os meios para entregar uma experiência de usuário impecável e resultados reais de negócio. Lidero projetos desde a modelagem de bancos de dados relacionais e construção de APIs RESTful até o desenvolvimento de interfaces front-end responsivas e dinâmicas.
